@@ -17,7 +17,7 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 
 ## Examples
 
-Let's assume an engineer with progress P = 1.80. Here are an example details of that career track and grade:
+Let's assume an engineer with progress P = 1.80. Here are sample details of that career track and grade:
 
 | Track    | Min P | Max P | Grade | Min Salary | Next Salary |
 |----------|-------|-------|-------|------------|-------------|
