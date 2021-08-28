@@ -15,7 +15,7 @@ It is supposed to be aspirational, so if you're not sure, put in lower score or 
 A competency consists of levels and skills. There are many **skills**, for example "You test your work following relevant examples." That is a skill within the delivery competency  on the beginner level. For each skill you should asses whether you posses the skill using the following scores:
 
 - **0 - Nope** - Not at all, meaning that you don't possess the skill.
-- **1 - Somewhat** - Having the skill somewhat, but not fully there yet.
+- **1 - Somewhat** - Having the skill somewhat, but not fully there yet or not showing that consistently.
 - **2 - Yes** - Fully possessing the skill, being able to provide multiple examples demonstrating it consistently. Also the skill should be persistent, meaning that you should not stop practicing the skill when you achieve it.
 
 ## Levels
