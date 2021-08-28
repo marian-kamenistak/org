@@ -35,7 +35,7 @@ The purpose of the goal is to help you improve. Therefore, avoid setting the com
 - Your own imagination or ambitions, sky is the limit here.
 - One of the following examples:
   - Improving **hard skills**:
-    - Explore a new technology and provide a knowledge sharing session, e.g. based on [thoughtWorks radar](https://www.thoughtworks.com/radar).
+    - Explore a new technology and provide a knowledge sharing session, e.g. based on [thoughtworks radar](https://www.thoughtworks.com/radar).
     - Participate at a conference or meetup, summarize and share the outcomes.
     - Get better at troubleshooting production issues.
     - Open-source participation.
