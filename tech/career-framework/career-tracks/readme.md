@@ -6,7 +6,7 @@ Everybody in the tech team has a career track which impacts several things. Your
 
 ## Overview
 
-As mentioned in the definition of career progress, different competencies are important for different career tracks. This will come handy during your first performance review when doing a self-assessment. Here's an overview of competency importance for each career track:
+As mentioned in the definition of career [progress](../progress.md), different [competencies](../competencies.md) are important for different career tracks. This will come handy during your first performance review when doing a self-assessment. Here's an overview of competency importance for each career track:
 
 | Name | 🚚 Delivery | 📚 Domain Expertise | 💡 Problem Solving | 💬 Communication | 🎖️ Leadership |
 |----------------------------|----------|------------------|-----------------|---------------|------------|
