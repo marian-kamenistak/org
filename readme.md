@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
     <a href="https://mews.com">
-        <img alt="Mews" height="100px" src="https://user-images.githubusercontent.com/435787/129971779-2c64348e-05a3-49d0-b026-91913ffd68dc.png">
+        <img alt="Mews" height="80px" src="https://user-images.githubusercontent.com/435787/129971779-2c64348e-05a3-49d0-b026-91913ffd68dc.png">
     </a>
-</p>
+</h1>
 
 During the growth of Mews organization, we realized that we not only build SaaS product for our customers, but also we build the organization itself. There are lots of guides on how to develop an application, but much less guides on **how to build a tech company**. For example how to structure engineering department, how to establish career ladders, how to determine salaries, what are some helpful processes, how to run code reviews or postmortems etc. etc.
 
