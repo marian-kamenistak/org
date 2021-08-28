@@ -21,14 +21,10 @@ In order to determine all of this and **ensure that everyone progresses forward*
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
 
 - **January** - [Performance Catchup](performance-catchups.md)
-- **February**
 - **March** - [Performance Catchup](performance-catchups.md)
-- **April**
 - **May** - [Performance Catchup](performance-catchups.md)
 - **June** - [Performance Review](performance-reviews.md)
 - **July** - [Performance Catchup](performance-catchups.md)
-- **August**
 - **September** - [Performance Catchup](performance-catchups.md)
-- **October** 
 - **November** - [Performance Catchup](performance-catchups.md)
 - **December** - [Performance Review](performance-reviews.md)
