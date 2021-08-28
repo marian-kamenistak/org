@@ -4,13 +4,11 @@
     </a>
 </h1>
 
-During the growth of Mews organization, we realized that we not only build SaaS product for our customers, but also we build the organization itself. There are lots of guides on how to develop an application, but much less guides on **how to build a tech company**. For example how to structure engineering department, how to establish career ladders, how to determine salaries, what are some helpful processes, how to run code reviews or postmortems etc. etc.
-
-And we don't need to stop at boundaries of technical department, there are even less resources when it comes to finance, reporting, planning, building P&L or structuring cost centers. And it's the similar case for other departments or roles in standard tech company. Therefore we decided to **share our practices**, processes, frameworks and guidelines, following the open-source philosophy.
+There are lots of guides on how to develop an application, but much less guides on **how to build a tech company**. During the growth of **[Mews](https://mews.com)**, we realized that we not only build SaaS product for our customers. We also build the organization itself. For example in tech department we structure divisions, put teams together, establish career ladders, determine salaries, put processes in place, deliver the product, run code reviews or postmortems etc. etc. And we don't need to stop at boundaries of technical department, there are even less resources when it comes to finance, reporting, planning, legal or operations. Therefore we decided to **share our practices**, processes, frameworks and guidelines, following the **open-source** spirit.
 
 ## Contents
 
-This is an ongoing and never ending work in progress...
+This is an ongoing and never ending work in progress... However all the things that we publish here are **being actively used by our employees**, we have no "private" versions of that we'd use internally.
 
 - Tech
   - [Career Framework](tech/career-framework/readme.md) - Competencies, career tracks, salaries, peformance reviews and personal development.
