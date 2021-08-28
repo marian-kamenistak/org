@@ -1,6 +1,6 @@
 # Career Framework
 
-Our career framework is built bottom-up, which means it starts with very specific low-level [skills](competencies.md#skills) which you can acquire. Having those skills advances you in different [competencies](competencies.md) where you basically level-up when you acquire new skills. Those competencies and [levels](competencies.md#levels) reached there determine your overall career progress within your [career track](career-tracks.md). The career track is quite specific already and together with the progress, it determines your [job grade](grades.md), job title, salary bounds, [compensation](compensation.md) and also responsibilities (job description).
+Our career framework is built bottom-up, which means it starts with very specific low-level [skills](competencies.md#skills) which you can acquire. Having those skills advances you in different [competencies](competencies.md) where you basically level-up when you acquire new skills. Those competencies and [levels](competencies.md#levels) reached there determine your overall career [progress](progress.md) within your [career track](career-tracks.md). The career track is quite specific already and together with the progress, it determines your [job grade](grades.md), job title, salary bounds, [compensation](compensation.md) and also responsibilities (job description).
 
 ## Calendar
 
