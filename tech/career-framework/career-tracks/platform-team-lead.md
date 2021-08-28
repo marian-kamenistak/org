@@ -2,14 +2,14 @@
 
 ## Responsibilities
 
-Improve the happiness and productivity of the team.
-Hold regular 1:1's with team members.
-Managing the team in line with our values.
-Define and drive OKRs, roadmap and its delivery.
-Oversee team responsibilities and ensure those are being fulfilled
-Own agile processes within the team like planning or retrospectives.
-Still be a developer when needed or possible and fulfill its responsibilities.
-Write public blog posts and speak at conferences.
+- Improve the happiness and productivity of the team.
+- Hold regular 1-2-1s with team members.
+- Managing the team in line with our values.
+- Define and drive OKRs, roadmap and its delivery.
+- Oversee team responsibilities and ensure those are being fulfilled.
+- Own agile processes within the team like planning or retrospectives.
+- Still be a developer when needed or possible and fulfill their responsibilities.
+- Write public blog posts and speak at conferences.
 
 ## Performance indicators
 
