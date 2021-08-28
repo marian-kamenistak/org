@@ -13,13 +13,5 @@ And we don't need to stop at boundaries of technical department, there are even 
 This is an ongoing and never ending work in progress...
 
 - Tech
-  - [Career Framework](tech/career-framework)
-    - [Competencies](tech/career-framework/competencies.md)
-    - [Progress](tech/career-framework/progress.md)
-    - [Career Tracks](tech/career-framework/career-tracks/readme.md)
-    - [Grades](tech/career-framework/grades.md)
-    - [Performance Reviews](tech/career-framework/performance-reviews.md)
-    - [Competency Assessment](tech/career-framework/competency-assessment.md)
-    - [Personal Goals](tech/career-framework/personal-goals.md)
-    - [Performance Catchups](tech/career-framework/performance-catchups.md)
+  - [Career Framework](tech/career-framework/readme.md)
 - Finance
