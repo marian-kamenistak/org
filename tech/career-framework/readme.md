@@ -4,6 +4,17 @@ Our career framework is built bottom-up, which means it starts with very specifi
 
 In order to determine all of this and **ensure that everyone progresses forward**, we do [performance reviews](performance-reviews.md) every six months. During a performance review, your manager will hold a general career discussion with you, you will [assess your competencies](competency-assessment.md) with the manager and establish [personal goals](personal-goals.md) for the upcoming six months. To make sure you work on your personal goals, there will be three [performance catchups](performance-catchups) where your manager will check up on your goals and help you in any way possible to **achieve the goals**.
 
+## Contents
+
+- [Competencies](competencies.md)
+- [Progress](progress.md)
+- [Career Tracks](career-tracks/readme.md)
+- [Grades](grades.md)
+- [Performance Reviews](performance-reviews.md)
+- [Competency Assessment](competency-assessment.md)
+- [Personal Goals](personal-goals.md)
+- [Performance Catchups](performance-catchups.md)
+
 ## Calendar
 
 There are several important events during the year that are focused on career and personal development. You'll be notified about them well in advance:
