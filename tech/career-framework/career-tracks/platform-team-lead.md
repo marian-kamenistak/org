@@ -11,7 +11,7 @@
 - Still be a developer when needed or possible and fulfill their responsibilities.
 - Write public blog posts and speak at conferences.
 
-## Performance indicators
+## Performance Indicators
 
 - OfficeVibe scores.
 - Team performance indicators.
