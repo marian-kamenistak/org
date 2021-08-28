@@ -2,7 +2,7 @@
 
 The last piece of the puzzle is grading within career tracks. Career progress is a continuous number between 0 and 5, however we need to establish a finite number of job titles, grades in company-wide career ladder etc. That is why each career track is subdivided into finite (usually 4) buckets. **Based on your career track and progress, you can look up your grade within the table below.** That will determine your job title, your minimum salary bound, next salary bound and also grade in company-wide career ladder. It contains the following columns:
 
-- **Track** - Name of the [career track](career-tracks/readme.md).
+- **Career Track** - Name of the [career track](career-tracks/readme.md).
 - **Min P** - Minimum [progress](progress.md) in the [career track](career-tracks/readme.md) required for the grade. Closed lower bound.
 - **Max P** - Maximum [progress](progress.md) in the [career track](career-tracks/readme.md) required for the grade. Open upper bound.
 - **Grade** - Grade within the company-wide career ladder.
@@ -14,7 +14,7 @@ The last piece of the puzzle is grading within career tracks. Career progress is
 
 For example an engineer with progress P = 2.50 would have grade IC4, minimum normalized salary 80000 and next normalized salary 120000. Their job title would be e.g. "Senior Backend Engineer". Some job titles contain `{Discriminator}` which is a dynamic placeholder that can be replaced with various values, most common ones are "Backend", "Frontend" and "Mobile" in case of IC roles. For management roles, it can be name of family or division. More on how to interpret and work with the normalized salaries can be found in the [compensation](compensation.md) guide.
 
-| Track                      | Min P | Max P | Grade | Job Title                                       | Min Salary | Next Salary |
+| Career Track               | Min P | Max P | Grade | Job Title                                       | Min Salary | Next Salary |
 |----------------------------|-------|-------|-------|-------------------------------------------------|------------|-------------|
 | Product Division Lead      | 0.00  | 5.00  | L1    | VP Engineering, {Discriminator}                 |            |             |
 | Platform Division Lead     | 0.00  | 5.00  | L1    | VP Engineering, {Discriminator}                 |            |             |
