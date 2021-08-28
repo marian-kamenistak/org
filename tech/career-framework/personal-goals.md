@@ -30,7 +30,7 @@ Let's say the goal is **`I want to become better at solving issues at production
 The purpose of the goal is to help you improve. Therefore, avoid setting the company or process-related goals. There are several ways how to identify what could be your next goal:
 
 - Not yet mastered skills from the competency sheet.
-- Filling in a personal development plan or following some personal development guideline, either company-wide one or some public.
+- Filling in a personal development plan or following a career guide, either company-wide one or some public.
 - Talking to people around you (not just your manager, but e.g. level 2 reviewer, head of your function etc.).
 - Your own imagination or ambitions, sky is the limit here.
 - One of the following examples:
