@@ -13,15 +13,15 @@ Besides salary or normalized salary, the formulas contain three multipliers. Use
 
 | Period | Currency | Country |
 |--------|----------|---------|
-| **Hour** - 160<br/> **Month** - 1<br/> **Year** - 0.0833<br/><br/><br/><br/><br/><br/> | **CZK** - 1<br/> **EUR** - 26<br/> **GBP** - 30<br/><br/><br/><br/><br/><br/> | **CZ** - 1.00<br/> **UK** - 0.60<br/> **NL** - 0.55<br/> **DE** - 0.55<br/> **BE** - 0.55<br/> **FR** - 0.65<br/> **ES** - 0.75<br/> **US** - 0.50 |
+| **Hour** - 160<br/> **Month** - 1 <br/>**Year** - 0.0833 | **CZK** - 1<br/> **EUR** - 26<br/> **GBP** - 30 | **CZ** - 1.00<br/> **UK** - 0.60<br/> **NL** - 0.55<br/> **DE** - 0.55<br/> **BE** - 0.55<br/> **FR** - 0.65<br/> **ES** - 0.75<br/> **US** - 0.50 |
 
 ## Examples
 
-Let's assume an engineer with progress P = 1.80. Here are sample details of that career track and grade:
+Let's assume an engineer with progress P = 1.80. Here are sample details of that career track and grade from the [grading overview](grades.md):
 
-| Track    | Min P | Max P | Grade | Min Salary | Next Salary |
-|----------|-------|-------|-------|------------|-------------|
-| Engineer | 1.20  | 2.40  | IC3   | 60000      | 80000       |
+| Track    | Min P | Max P | Grade | Job Title                | Min Salary | Next Salary |
+|----------|-------|-------|-------|--------------------------|------------|-------------|
+| Engineer | 1.20  | 2.40  | IC3   | {Discriminator} Engineer | 60000      | 80000       |
 
 > Please note that currently, we are not publishing the salary columns, those have been redacted out. All the examples involving salaries in these guides are arbitrary and do not represent reality.
 
