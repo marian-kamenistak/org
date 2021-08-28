@@ -16,7 +16,7 @@ This is an ongoing and never ending work in progress...
   - [Career Framework](tech/career-framework)
     - [Competencies](tech/career-framework/competencies.md)
     - [Progress](tech/career-framework/progress.md)
-    - [Tracks](tech/career-framework/tracks/readme.md)
+    - [Career Tracks](tech/career-framework/career-tracks/readme.md)
     - [Grades](tech/career-framework/grades.md)
     - [Performance Reviews](tech/career-framework/performance-reviews.md)
     - [Competency Assessment](tech/career-framework/competency-assessment.md)
