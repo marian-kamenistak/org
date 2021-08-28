@@ -10,20 +10,20 @@ As mentioned in the definition of career [progress](../progress.md), different [
 
 | Name | 🚚 Delivery | 📚 Domain Expertise | 💡 Problem Solving | 💬 Communication | 🎖️ Leadership |
 |----------------------------|----------|------------------|-----------------|---------------|------------|
-| Product Division Lead         | 5  | 25 | 10 | 30 | 30 |
-| Platform Division Lead        | 5  | 25 | 15 | 25 | 30 |
-| Product Family Lead           | 10 | 25 | 15 | 25 | 25 |
-| Platform Family Lead          | 5  | 30 | 25 | 20 | 20 |
-| IT and Security Lead          | 10 | 25 | 25 | 20 | 20 |
-| Product Team Lead             | 30 | 10 | 20 | 20 | 20 |
-| Platform Team Lead            | 15 | 30 | 25 | 15 | 15 |
-| Technical Leader              | 5  | 30 | 30 | 25 | 10 |
-| Community Manager             | 10 | 20 | 20 | 30 | 20 |
-| Engineer                      | 25 | 30 | 30 | 10 | 5  |
-| Data Scientist                | 15 | 30 | 35 | 15 | 5  |
-| IT Security Engineer          | 20 | 25 | 25 | 20 | 10 |
-| Data Analyst                  | 25 | 25 | 25 | 20 | 5  |
-| IT Infrastructure Engineer    | 25 | 30 | 30 | 10 | 5  |
-| QA Engineer                   | 20 | 30 | 20 | 25 | 5  |
-| IT Specialist                 | 35 | 20 | 25 | 15 | 5  |
-| Community Coordinator         | 30 | 25 | 15 | 25 | 5  |
+| Product Division Lead                                   | 5  | 25 | 10 | 30 | 30 |
+| [Platform Division Lead](platform-division-lead.md)     | 5  | 25 | 15 | 25 | 30 |
+| [Product Family Lead](product-family-lead.md)           | 10 | 25 | 15 | 25 | 25 |
+| [Platform Family Lead](platform-family-lead.md)         | 5  | 30 | 25 | 20 | 20 |
+| IT and Security Lead                                    | 10 | 25 | 25 | 20 | 20 |
+| Product Team Lead                                       | 30 | 10 | 20 | 20 | 20 |
+| [Platform Team Lead](product-team-lead.md)              | 15 | 30 | 25 | 15 | 15 |
+| Technical Leader                                        | 5  | 30 | 30 | 25 | 10 |
+| Community Manager                                       | 10 | 20 | 20 | 30 | 20 |
+| [Engineer](engineer.md)                                 | 25 | 30 | 30 | 10 | 5  |
+| Data Scientist                                          | 15 | 30 | 35 | 15 | 5  |
+| IT Security Engineer                                    | 20 | 25 | 25 | 20 | 10 |
+| Data Analyst                                            | 25 | 25 | 25 | 20 | 5  |
+| IT Infrastructure Engineer                              | 25 | 30 | 30 | 10 | 5  |
+| [QA Engineer](qa-engineer.md)                           | 20 | 30 | 20 | 25 | 5  |
+| IT Specialist                                           | 35 | 20 | 25 | 15 | 5  |
+| Community Coordinator                                   | 30 | 25 | 15 | 25 | 5  |
