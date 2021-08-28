@@ -1,4 +1,4 @@
-# Tracks
+# Career Tracks
 
 There are multiple different roles and **career tracks** you can pursue, the main distinction is into individual contributor and management tracks. The main difference obviously is that a manager manages people which by default increases their responsibility. But this does not mean, that in order to progress in your career, you need to become manager. This is a choice and an **expert individual contributor is as valuable as a senior manager**. We try to reflect this in the compensation as well. Among individual contributor career tracks, you are able to switch pretty much freely. In order to get to one of the management career tracks, you need to be assigned that role, you cannot choose this on your own :)
 
