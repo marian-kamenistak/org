@@ -6,14 +6,14 @@ In order to determine all of this and **ensure that everyone progresses forward*
 
 ## Contents
 
-- [Competencies](competencies.md)
-- [Progress](progress.md)
-- [Career Tracks](career-tracks/readme.md)
-- [Grades](grades.md)
-- [Performance Reviews](performance-reviews.md)
-- [Competency Assessment](competency-assessment.md)
-- [Personal Goals](personal-goals.md)
-- [Performance Catchups](performance-catchups.md)
+1. [Competencies](competencies.md)
+1. [Progress](progress.md)
+1. [Career Tracks](career-tracks/readme.md)
+1. [Grades](grades.md)
+1. [Performance Reviews](performance-reviews.md)
+1. [Competency Assessment](competency-assessment.md)
+1. [Personal Goals](personal-goals.md)
+1. [Performance Catchups](performance-catchups.md)
 
 ## Calendar
 
