@@ -14,4 +14,12 @@ This is an ongoing and never ending work in progress...
 
 - Tech
   - [Career Framework](tech/career-framework)
+    - [Competencies](tech/career-framework/competencies.md)
+    - [Progress](tech/career-framework/progress.md)
+    - [Tracks](tech/career-framework/tracks.md)
+    - [Grades](tech/career-framework/grades.md)
+    - [Performance Reviews](tech/career-framework/performance-reviews.md)
+    - [Competency Assessment](tech/career-framework/competency-assessment.md)
+    - [Personal Goals](tech/career-framework/personal-goals.md)
+    - [Performance Catchups](tech/career-framework/performance-catchups.md)
 - Finance
