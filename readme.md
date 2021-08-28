@@ -13,5 +13,5 @@ And we don't need to stop at boundaries of technical department, there are even 
 This is an ongoing and never ending work in progress...
 
 - Tech
-  - Career Framework
+  - [Career Framework](tech/career-framework)
 - Finance
