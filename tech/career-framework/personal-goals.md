@@ -4,6 +4,8 @@ When performing the [competency assessment](competency-assessment.md), you will 
 
 If you are not able to fulfill some of these attributes 100%, don't worry. It is just a guideline to help you design your goals, but you don't have to stick to it to the letter. For example, if the goal is not measurable, make it at least as measurable as it can be, but don't overengineer it just for the sake of it. It should help you, not get in your way.
 
+We are using (Officevibe)[https://officevibe.com/] as a company wide tool for gathering feedback from team members. Thanks to its _Goals_ feature, we are using it also for tracking of personal goals.
+
 ## Example
 
 Let's say the goal is **`I want to become better at solving issues at production`**. We will showcase SMART attributes on this example.
