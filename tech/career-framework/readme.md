@@ -11,10 +11,10 @@ In order to determine all of this and **ensure that everyone progresses forward*
 1. [Career Tracks](career-tracks/readme.md)
 1. [Grades](grades.md)
 1. [Compensation](compensation.md)
-3. [Performance Reviews](performance-reviews.md)
-4. [Competency Assessment](competency-assessment.md)
-5. [Personal Goals](personal-goals.md)
-6. [Performance Catchups](performance-catchups.md)
+1. [Performance Reviews](performance-reviews.md)
+1. [Competency Assessment](competency-assessment.md)
+1. [Personal Goals](personal-goals.md)
+1. [Performance Catchups](performance-catchups.md)
 
 ## Calendar
 
