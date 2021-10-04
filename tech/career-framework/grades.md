@@ -41,6 +41,10 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | Technical Leader           | 0.00  | 3.80  | IC4   | Staff {Discriminator} Engineer                  |            |             |
 | Technical Leader           | 3.80  | 4.40  | IC5   | Senior Staff {Discriminator} Engineer           |            |             |
 | Technical Leader           | 4.40  | 5.00  | IC5   | Principal {Discriminator} Engineer              |            |             |
+| Agile Coach                | 0.00  | 1.40  | S1    | Agile Coach                                     |            |             |
+| Agile Coach                | 1.40  | 2.60  | S2    | Agile Coach                                     |            |             |
+| Agile Coach                | 2.60  | 3.80  | M1    | Senior Agile Coach                              |            |             |
+| Agile Coach                | 3.80  | 5.00  | M2    | Staff Agile Coach                               |            |             |
 | Community Manager          | 0.00  | 1.40  | S1    | Community Manager                               |            |             |
 | Community Manager          | 1.40  | 2.60  | S2    | Community Manager                               |            |             |
 | Community Manager          | 2.60  | 3.80  | M1    | Community Manager                               |            |             |
