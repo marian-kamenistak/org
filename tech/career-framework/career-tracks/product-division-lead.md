@@ -5,7 +5,7 @@
 - Leading the product engineering division:
   - Contributing to product vision and product strategy.
   - Overseeing execution of the strategy by product families and ensuring successful delivery.
-  - Understanding the high-level picture of the product usage, products built on top of that and their needs.
+  - Understanding the high-level picture of the product usage, customer use cases and their needs.
   - Managing product family leads, defining their goals, responsibilities, providing feedback.
   - Growing, coaching and developing the product division to scale and meet the business needs.
   - Acting as a hiring manager, recruiting especially senior members of the product division.
