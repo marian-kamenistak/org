@@ -57,6 +57,10 @@ For example an engineer with progress P = 2.50 would have grade IC4, minimum nor
 | Data Scientist             | 1.20  | 2.40  | IC3   | Data Scientist                                  |            |             |
 | Data Scientist             | 2.40  | 3.60  | IC4   | Senior Data Scientist                           |            |             |
 | Data Scientist             | 3.60  | 5.00  | IC5   | Staff Data Scientist                            |            |             |
+| Product Security Engineer  | 0.00  | 1.20  | IC2   | Product Security Engineer                       |            |             |
+| Product Security Engineer  | 1.20  | 2.40  | IC3   | Product Security Engineer                       |            |             |
+| Product Security Engineer  | 2.40  | 3.60  | IC4   | Senior Product Security Engineer                |            |             |
+| Product Security Engineer  | 3.60  | 5.00  | IC5   | Staff Product Security Engineer                 |            |             |
 | IT Security Engineer       | 0.00  | 1.20  | IC2   | IT Security Engineer                            |            |             |
 | IT Security Engineer       | 1.20  | 2.40  | IC3   | IT Security Engineer                            |            |             |
 | IT Security Engineer       | 2.40  | 3.60  | IC4   | Senior IT Security Engineer                     |            |             |
