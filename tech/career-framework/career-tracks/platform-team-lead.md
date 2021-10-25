@@ -11,6 +11,7 @@
 - Define and drive OKRs, roadmap and its delivery.
 - Oversee team responsibilities and ensure those are being fulfilled.
 - Run agile ceremonies within the team like plannings or retrospectives.
+- Continuously improve our ways of working.
 - Write public blog posts and speak at conferences.
 
 ## Performance Indicators
