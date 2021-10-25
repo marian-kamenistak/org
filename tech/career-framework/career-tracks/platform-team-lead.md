@@ -2,13 +2,15 @@
 
 ## Responsibilities
 
-- Improve the happiness and productivity of the team.
+- Manage the team in line with our values.
+- Coach and mentor engineers on your team and help them progress in their careers by giving feedback and setting goals.
 - Hold regular 1-2-1s with team members.
-- Managing the team in line with our values.
+- Improve the happiness and productivity of the team.
+- Be part of the hiring process and plan for the long-term.
+- Own the definition and execution of the team's long-term success.
 - Define and drive OKRs, roadmap and its delivery.
 - Oversee team responsibilities and ensure those are being fulfilled.
-- Own agile processes within the team like planning or retrospectives.
-- Still be a developer when needed or possible and fulfill their responsibilities.
+- Run agile ceremonies within the team like plannings or retrospectives.
 - Write public blog posts and speak at conferences.
 
 ## Performance Indicators
