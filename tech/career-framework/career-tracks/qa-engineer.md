@@ -3,12 +3,11 @@
 ## Responsibilities
 
 - Testing:
-  - Test features and improvements to ensure the stability of the product, making sure that quality minimum definition is met.
+  - Test features and improvements to ensure stability of the product and that our quality minimum is met.
   - Report issues in form of bug reports and improvements. 
-  - Own and triage the bugs backlog of your team.
+  - Participate in traiging and validation of bugs incoming to your team.
   - Write automated E2E tests while following best practices and our standards for style and maintainability.
   - Own and maintain automated E2E tests of your team and respond to their failures.
-  - Own the testing strategy for your product scope.
   - Deliver thorough code reviews in timely manner, advocate for best practices.
 - Delivery:
   - Own and maintain acceptance criteria for the upcoming issues of the team.
