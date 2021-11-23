@@ -9,7 +9,7 @@
   - Growing, coaching and developing the family to scale and meet the business needs.
   - Acting as a hiring manager, recruiting especially senior members of the family.
   - Aiming for stable and predictable teams' composition.
-  - Help the teams to set the right priorities, keep them focused, minimizing noise.
+  - Helping the teams to set the right priorities, keep them focused, minimizing noise.
 - Delivery:
   - Contributing to strategy and the roadmap of your family.
   - Understanding the product and defining the best viable adoption/integration option for the product sector.
@@ -19,5 +19,5 @@
   - Performing regular team health checks.
 - Partnership:
   - Being a stakeholder in terms of both business and technical decisions on top of our SaaS architecture.
-  - Cooperation with Product Directors and Product Managers.
+  - Cooperating with Product Directors and Product Managers.
   - Being a partner to your engineering director peers.
