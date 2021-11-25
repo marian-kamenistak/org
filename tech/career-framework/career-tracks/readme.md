@@ -22,9 +22,9 @@ As mentioned in the definition of career [progress](../progress.md), different [
 | Community Manager                                        | 10 | 20 | 20 | 30 | 20 |
 | [Engineer](engineer.md)                                  | 25 | 30 | 30 | 10 | 5  |
 | [Product Security Engineer](product-security-engineer.md)| 20 | 25 | 25 | 25 | 5  |
-| Data Scientist                                           | 15 | 30 | 35 | 15 | 5  |
+| [Data Scientist](data-engineer.md)                       | 15 | 30 | 35 | 15 | 5  |
 | IT Security Engineer                                     | 20 | 25 | 25 | 20 | 10 |
-| Data Analyst                                             | 25 | 25 | 25 | 20 | 5  |
+| [Data Analyst](data-analyst.md)                          | 25 | 25 | 25 | 20 | 5  |
 | IT Infrastructure Engineer                               | 25 | 30 | 30 | 10 | 5  |
 | [QA Engineer](qa-engineer.md)                            | 20 | 30 | 20 | 25 | 5  |
 | IT Specialist                                            | 35 | 20 | 25 | 15 | 5  |
