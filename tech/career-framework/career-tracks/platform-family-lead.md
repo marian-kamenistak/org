@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-- Planning up-to years ahead, defining long term product vision and strategy for the platform family in alignment with company strategy and business needs.
+- Defining long term product vision and strategy for the platform family in alignment with company strategy and business needs.
 - Overseeing execution of the strategy by platform teams and ensuring successful delivery.
 - Driving delivery of the platform team initiatives, owning OKRs of the platform teams.
 - Understanding the high-level picture of the platform family usage, products built on top of that and their needs.
