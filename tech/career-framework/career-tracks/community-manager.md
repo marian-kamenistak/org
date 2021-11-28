@@ -12,7 +12,7 @@
   - Owning onboarding, offboarding and whole lifecycle of tech team members.
   - Engaging tech team members with the rest of the organization and vice versa.
   - Organizing learning courses, events and other activities for the tech team.
-  - Understanding and actioning the needs of the tech team and its members.
+  - Understanding and actioning the needs of the tech team and its members, contributing to happiness of the tech team.
 - External Community:
   - Owning and executing the strategy for events, blog, social media and other public channels.
   - Nurturing relationship with universities and other organizations in the external community.
