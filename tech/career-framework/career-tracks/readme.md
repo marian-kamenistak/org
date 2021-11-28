@@ -19,7 +19,7 @@ As mentioned in the definition of career [progress](../progress.md), different [
 | [Platform Team Lead](platform-team-lead.md)              | 15 | 30 | 25 | 15 | 15 |
 | [Technical Leader](technical-leader.md)                  | 5  | 30 | 30 | 15 | 20 |
 | [Agile Coach](agile-coach.md)                            | 10 | 30 | 10 | 25 | 25 |
-| Community Manager                                        | 10 | 20 | 20 | 30 | 20 |
+| [Community Manager](community-manager.md)                | 10 | 20 | 20 | 30 | 20 |
 | [Engineer](engineer.md)                                  | 25 | 30 | 30 | 10 | 5  |
 | [Product Security Engineer](product-security-engineer.md)| 20 | 25 | 25 | 25 | 5  |
 | [Data Scientist](data-scientist.md)                      | 15 | 30 | 35 | 15 | 5  |
