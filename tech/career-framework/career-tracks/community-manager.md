@@ -7,7 +7,7 @@
   - Driving delivery of the community team initiatives, owning OKRs and KPIs of the team.
   - Managing the tech community team, defining their goals, responsibilities, providing feedback.
   - Being the main point of contact representing tech community in cross-organizational matters.
-  - Aligning tech community activities with company and needs and guidelines.
+  - Aligning tech community activities with company needs and guidelines.
 - Internal Community:
   - Owning onboarding, offboarding and whole lifecycle of tech team members.
   - Engaging tech team members with the rest of the organization and vice versa.
